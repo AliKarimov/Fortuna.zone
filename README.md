@@ -135,7 +135,6 @@ To learn more about the risks associated with Fortuna Blockchain, please review 
 
 Fortuna Blockchain complies with all relevant regulations. However, there are legal considerations to keep in mind:
 
-Legal Considerations
 Regulatory Compliance
 •	Operates under host country's laws; investors must verify eligibility and tax implications.
 •	KYC/AML procedures in place for compliance.
