@@ -118,17 +118,8 @@ We understand that every project involves risks. Here is an analysis of potentia
 - Market risks
 - Security risks
 - Regulatory risks
-
-To learn more about the risks associated with Fortuna Blockchain, please review our [Risk Analysis](link_to_risk_analysis.md).
-
-## Legal Considerations
-
-Fortuna Blockchain complies with all relevant regulations. However, there are legal considerations to keep in mind:
-
 - Regulatory compliance
--
-
-
+- 
 To learn more about the risks associated with Fortuna Blockchain, please review our [Risk Analysis](link_to_risk_analysis.md).
 
 ## Legal Considerations
