@@ -28,9 +28,6 @@ Fortuna Blockchain is a decentralized gaming platform that brings transparency a
 
 To get started with Fortuna Blockchain, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/fortuna/blockchain.git`
-2. Install the required dependencies: `npm install`
-3. Start the application: `npm start`
 
 For more detailed instructions, please refer to our [Installation Guide](link_to_installation_guide.md).
 
