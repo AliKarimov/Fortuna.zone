@@ -37,10 +37,10 @@ For more detailed instructions, please refer to our [Installation Guide](link_to
 What is Fortuna Blockchain?
 Fortuna Blockchain is an avant-garde, decentralized platform that fuses the world of blockchain technology with lottery gaming and financial investment opportunities. Fortuna aims to redefine the conventional gaming industry by establishing an ecosystem where transparency, fairness, and unlimited liquidity are not just buzzwords but a reality for every user.
 
-Mission
+**Mission**
 Our mission is to provide unlimited liquidity for all users. In traditional financial and gaming systems, liquidity often remains in the hands of a few. Fortuna intends to democratize this by creating an open and decentralized network where liquidity flows freely. By breaking down barriers and eliminating middlemen, we enable everyone to participate in a fair and financially rewarding ecosystem.
 
-Vision
+**Vision**
 Fortuna envisions a world where blockchain technology transcends the limitations of traditional systems. Our platform aims to empower users to be more than just participants. By investing in Fortuna, you become a stakeholder in an ever-growing ecosystem that offers not just gaming opportunities but also a plethora of financial instruments for investment and wealth generation.
 By emphasizing community governance, Fortuna places the future of the platform in the hands of those who matter most—the users. As we grow, we seek to add more features and products that align with our community's needs and aspirations, making Fortuna a truly user-centric platform.
 
