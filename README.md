@@ -9,20 +9,21 @@ Fortuna Blockchain is a decentralized gaming platform that brings transparency a
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Game Mechanics](#game-mechanics)
-4. [Bonuses and Features](#bonuses-and-features)
-5. [Community Involvement](#community-involvement)
-6. [Tokenomics](#tokenomics)
-7. [Future Plans](#future-plans)
-8. [Financial Projections](#financial-projections)
-9. [ICO Details](#ico-details)
-10. [Risk Analysis](#risk-analysis)
-11. [Legal Considerations](#legal-considerations)
-12. [Team](#team)
-13. [Conclusion](#conclusion)
-14. [References](#references)
-15. [Glossary](#glossary)
+2. [Introduction](#uMission-vision)
+3. Market overview
+4. [Game Mechanics](#game-mechanics)
+5. [Bonuses and Features](#bonuses-and-features)
+6. [Community Involvement](#community-involvement)
+7. [Tokenomics](#tokenomics)
+8. [Future Plans](#future-plans)
+9. [Financial Projections](#financial-projections)
+10. [ICO Details](#ico-details)
+11. [Risk Analysis](#risk-analysis)
+12. [Legal Considerations](#legal-considerations)
+13. [Team](#team)
+14. [Conclusion](#conclusion)
+15. [References](#references)
+16. [Glossary](#glossary)
 
 ## Installation
 
