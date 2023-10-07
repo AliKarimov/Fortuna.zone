@@ -1,5 +1,5 @@
 # Fortuna
-# Fortuna Blockchain
+# A decentralized lottery system powered by blockchain.
 
 <img src="Fortuna logo 200x200.png" width="desired_width_in_pixels">
 
