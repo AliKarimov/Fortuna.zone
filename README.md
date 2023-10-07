@@ -10,7 +10,7 @@ Fortuna Blockchain is a decentralized gaming platform that brings transparency a
 
 1. [Installation](#installation)
 2. [Introduction](#uMission-vision)
-3. Market overview
+3. [Market overview](#uMission-vision)
 4. [Game Mechanics](#game-mechanics)
 5. [Bonuses and Features](#bonuses-and-features)
 6. [Community Involvement](#community-involvement)
