@@ -46,6 +46,38 @@ By emphasizing community governance, Fortuna places the future of the platform i
 
 In the long run, Fortuna aims to be more than just a gaming platform; it will be a comprehensive blockchain ecosystem that meets various financial needs, aligning perfectly with advancements in blockchain technology and decentralized finance.
 
+Market Overview
+Target Market
+
+Fortuna Blockchain aims to serve a diverse target audience that includes but is not limited to:
+•	Online Gamblers: Individuals who participate in various online gaming activities and are looking for a more transparent and fair experience.
+•	Cryptocurrency Enthusiasts: Those who are already familiar with blockchain technology and are eager to see its applications in different verticals.
+•	Institutional Investors: Firms and high-net-worth individuals seeking new and innovative asset classes for diversification.
+•	General Public: Given the easy-to-understand nature of lottery games, Fortuna also appeals to the larger audience who might not yet be familiar with blockchain technology but are interested in gaming.
+
+
+Market Potential
+ •	Global Online Gambling Market: Expected to reach $127.3 billion by 2027, growing at a CAGR of 11.5% from 2020 to 2027 (source: Allied Market Research).
+ •	Cryptocurrency Users: As of 2021, there were an estimated 101 million crypto users worldwide, a number that's growing exponentially (source: Crypto.com).
+ •	DeFi Market: The Total Value Locked (TVL) in DeFi platforms stood at over $80 billion as of mid-2022, showcasing the potential for decentralized financial products (source: DeFi Pulse).
+Competitive Analysis
+Direct Competitors
+ •	FunFair: A blockchain-based platform that focuses on casino games.
+ •	TrueFlip: Offers transparent lottery games.
+ •	Augur: A decentralized prediction market.
+
+
+Indirect Competitors 
+ •	Traditional online gambling sites: While not blockchain-based, they compete for the same target audience.
+ •	Centralized Finance (CeFi) investment platforms: These platforms offer investment opportunities but lack the advantages of decentralization.
+
+Competitive Edge
+ •	Transparency: The decentralized nature of Fortuna ensures full transparency in all games and transactions.
+ •	Community-Driven: Fortuna places governance in the hands of the users, making it a truly community-driven project.
+ •	Financial Tools: Beyond gaming, Fortuna offers a range of financial investment opportunities, creating a more comprehensive platform
+
+
+
 Here are some basic usage instructions for Fortuna Blockchain:
 
 - Create an account and purchase tickets to participate in lotteries.
@@ -66,20 +98,53 @@ Fortuna Blockchain offers a unique and exciting gaming experience. Here's how it
 
 For a detailed explanation of the game mechanics, please see our [Game Mechanics Guide](link_to_game_mechanics.md).
 
-## Bonuses and Features
+## Rules of the Game on the Fortuna Blockchain
+1. Game Attributes
+•	Tickets (Cards): Each card is numbered from 1 to 90, inclusive.
+•	Number of Cards: 450 pieces in the following ranges: 001-090, 101-190, 201-290, 301-390, and 401-490.
+•	Numbers Barrels: These are 90 individual barrels, each with a unique number ranging from 1 to 90.
 
-We offer various bonuses and features to enhance the gaming experience:
 
-- Bonus 1: The first drawn number determines the bonus ticket.
-- Bonus 2: Players completing six digits, including the red bonus, win additional prizes.
-- Bonus 3: Jackpot for players who complete the first six drawn numbers.
-- And more!
 
-Stay updated with our community for upcoming bonuses.
+**Game Conditions**
+Card Selection: Each player selects a card (ticket) from the available pool.
+Card Structure: Each card contains 18 unique digits, arranged in three rows. Each row contains 6 digits.
+Sample Card
 
-## Community Involvement
+![image](https://github.com/AliKarimov/Fortuna.zone/assets/49026670/7a1e6f78-7206-445d-bf25-5ba9759bd4e7)
 
-We encourage community-driven development and decision-making. Our mission is to ensure responsible gaming and the well-being of our players.
+ 
+Note: One of the digits in each card will be colored red (bonus)
+
+
+4. Game Mechanics
+•	Game Start: Once the players have selected their cards, the game commences.
+•	Random Numbers: Numbers are randomly drawn from the 90 barrels. As the numbers are drawn, players mark off the corresponding numbers on their cards.
+•	Winning Criteria: The first player to mark off one complete row of numbers on their card wins the game.
+4.1 Game Attributes
+•	Tickets (Cards): Tickets are numbered from 1 to 90 (inclusive).
+•	Number of Cards: There are a total of 450 cards, divided into groups: 001-090; 101-190; 201-290; 301-390; 401-490.
+•	Number Barrels: The game includes 90 barrels, each numbered from 1 to 90.
+•	4.2 Game Conditions
+•	Player Selection: Each player selects a card (ticket).
+•	Ticket Structure: Each ticket contains 18 unique digits distributed across three rows, with 6 digits in each row. One of the digits is highlighted in red and is considered a bonus.
+
+•	4.3 Game Process
+•	Game Start: The game commences after players have acquired their tickets.
+•	Number Drawing: During the game, random numbers are drawn (randomized). These numbers are used to mark corresponding digits on players' tickets.
+•	Winning Condition: The first player to complete one of the vertical lines on their ticket is declared the winner of the round.
+
+5. Bonus Mechanisms
+•	Bonus 1: The first drawn number determines the bonus card(s). For example, if the first drawn number is 17, then card numbers 17, 117, 217, 317, and 417 become bonus cards for that game.
+•	Bonus 2: The red (bonus) number. If a player marks off a complete row and the last number marked is the red number, they win the standard prize pool plus a red-number bonus.
+•	Bonus 3: Jackpot conditions. If a player manages to mark off one row with the first six numbers drawn, they win a full Bitcoin or equivalent in Satoshi.
+
+•	Multiple Winners: If more than one card wins, the prize pool is divided equally among the winning cards.
+
+•	Card Limit: A player can purchase up to 10 cards per game.
+This innovative approach ensures not only excitement and fairness but also integrates the benefits of blockchain to enhance trust and community participation.
+
+
 
 For details on how you can get involved and make your voice heard, visit our [Community Engagement Guide](link_to_community_engagement.md).
 
