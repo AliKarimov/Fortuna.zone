@@ -24,41 +24,87 @@ Fortuna Blockchain is a decentralized gaming platform that brings transparency a
 14. [References](#references)
 15. [Glossary](#glossary)
 
-Value Proposition of Fortuna Blockchain
-Unparalleled Transparency
-Blockchain's immutable nature ensures that once data is added, it cannot be altered or deleted. This guarantees complete transparency and trustworthiness of the game's outcome and distribution of rewards.
-Decentralization
-The platform functions on a peer-to-peer network, minimizing the role of middlemen and reducing the costs associated with them. This is crucial for fair management of all resources and revenues.
-User Empowerment
-Fortuna Lotto aims to hand over the reins of the game management to the community. Through decentralized governance, token holders can vote on critical issues, such as game rules, addition of new features, and distribution of rewards.
-Financial Innovation
-Our platform will not just limit itself to gaming but will expand to incorporate various financial tools like staking, trading, and investing, all aligned with your interest in cryptocurrencies and investments.
-Inclusive Rewards System
-The unique tokenomics and bonus features ensure that participants can earn rewards in multiple ways—whether they are players, investors, or governance participants.
-Fair Game Mechanics
-By incorporating blockchain, every element from number generation to reward distribution is transparent and verifiable by all players. This addresses the common concerns related to fairness and biases in traditional lotteries.
-Sustainability
-With plans for community-driven development and bonuses, Fortuna Lotto aims to make the gaming experience increasingly engaging, thereby ensuring long-term sustainability.
-Scalability
-The platform is designed to adapt and grow, not just in terms of user base but also in features and offerings. This scalability makes it a future-proof investment.
+Installation
+To get started with Fortuna Blockchain, follow these steps:
 
-Introduction
-What is Fortuna Blockchain?
-Fortuna Blockchain is an avant-garde, decentralized platform that fuses the world of blockchain technology with lottery gaming and financial investment opportunities. Fortuna aims to redefine the conventional gaming industry by establishing an ecosystem where transparency, fairness, and unlimited liquidity are not just buzzwords but a reality for every user.
+Clone the repository: git clone https://github.com/fortuna/blockchain.git
+Install the required dependencies: npm install
+Start the application: npm start
+For more detailed instructions, please refer to our Installation Guide.
 
-Mission
-Our mission is to provide unlimited liquidity for all users. In traditional financial and gaming systems, liquidity often remains in the hands of a few. Fortuna intends to democratize this by creating an open and decentralized network where liquidity flows freely. By breaking down barriers and eliminating middlemen, we enable everyone to participate in a fair and financially rewarding ecosystem.
+Usage
+Here are some basic usage instructions for Fortuna Blockchain:
 
-Vision
-Fortuna envisions a world where blockchain technology transcends the limitations of traditional systems. Our platform aims to empower users to be more than just participants. By investing in Fortuna, you become a stakeholder in an ever-growing ecosystem that offers not just gaming opportunities but also a plethora of financial instruments for investment and wealth generation.
-By emphasizing community governance, Fortuna places the future of the platform in the hands of those who matter most—the users. As we grow, we seek to add more features and products that align with our community's needs and aspirations, making Fortuna a truly user-centric platform.
+Create an account and purchase tickets to participate in lotteries.
+Follow the game mechanics and rules to increase your chances of winning.
+Engage with the community, vote on game features, and participate in decision-making.
+For more information on how to use Fortuna Blockchain, please visit our User Guide.
 
-In the long run, Fortuna aims to be more than just a gaming platform; it will be a comprehensive blockchain ecosystem that meets various financial needs, aligning perfectly with advancements in blockchain technology and decentralized finance.
+Game Mechanics
+Fortuna Blockchain offers a unique and exciting gaming experience. Here's how it works:
 
+Tickets are numbered from 1 to 90.
+Each ticket contains 18 unique digits in three rows of 6 digits each.
+One digit is highlighted in red, indicating a bonus.
+Random numbers are drawn, and players mark their tickets.
+The first player to complete one of the perpendicular lines wins.
+For a detailed explanation of the game mechanics, please see our Game Mechanics Guide.
 
+Bonuses and Features
+We offer various bonuses and features to enhance the gaming experience:
 
-Market Overview
-Target Market
+Bonus 1: The first drawn number determines the bonus ticket.
+Bonus 2: Players completing six digits, including the red bonus, win additional prizes.
+Bonus 3: Jackpot for players who complete the first six drawn numbers.
+And more!
+Stay updated with our community for upcoming bonuses.
+
+Community Involvement
+We encourage community-driven development and decision-making. Our mission is to ensure responsible gaming and the well-being of our players.
+
+For details on how you can get involved and make your voice heard, visit our Community Engagement Guide.
+
+Tokenomics
+Our native token, FRT, plays a crucial role in the Fortuna Blockchain ecosystem:
+
+Total supply: 1,313,00,000 FRT
+Mining Prize: 45%
+Marketing: 5%
+Development: 11%
+Community: 11%
+ICO: 25%
+Reward: 3%
+For more information about FRT and its distribution, please see our Tokenomics Document.
+
+Future Plans
+We have exciting plans for the future, including the launch of additional games and financial instruments like staking, swapping, and trading. Stay tuned for updates on our roadmap.
+
+For a detailed overview of our future plans, please refer to our Roadmap.
+
+Financial Projections
+Here are our expected financial projections:
+
+Revenue: $X million
+Costs: $X million
+Profitability: X%
+For a comprehensive breakdown of our financial projections, please see our Financial Projections Report.
+
+ICO Details
+We plan to conduct an ICO with the following details:
+
+ICO Price: $X per FRT
+Date: [Insert Date]
+Hard Cap: $X million
+Soft Cap: $X million
+Stay informed about our ICO by visiting our ICO Details Page.
+
+Risk Analysis
+We understand that every project involves risks. Here is an analysis of potential risks:
+
+Market risks
+Security risks
+Regulatory risks
+To learn more about the risks associated with Fortuna Blockchain, please review our Risk Analysis.
 
 Fortuna Blockchain aims to serve a diverse target audience that includes but is not limited to:
 •	Online Gamblers: Individuals who participate in various online gaming activities and are looking for a more transparent and fair experience.
