@@ -4,10 +4,6 @@
 <img src="Fortuna logo 200x200.png" width="desired_width_in_pixels">
 
 
-# Fortuna Blockchain
-
-![Fortuna Logo](link_to_logo.png)
-
 Fortuna Blockchain is a decentralized gaming platform that brings transparency and excitement to the world of lotteries. Our mission is to provide unlimited liquidity for all users, allowing everyone to openly and honestly win and invest in our project to build an entire ecosystem.
 
 ## Table of Contents
@@ -125,6 +121,16 @@ We understand that every project involves risks. Here is an analysis of potentia
 - Market risks
 - Security risks
 - Regulatory risks
+
+To learn more about the risks associated with Fortuna Blockchain, please review our [Risk Analysis](link_to_risk_analysis.md).
+
+## Legal Considerations
+
+Fortuna Blockchain complies with all relevant regulations. However, there are legal considerations to keep in mind:
+
+- Regulatory compliance
+-
+
 
 To learn more about the risks associated with Fortuna Blockchain, please review our [Risk Analysis](link_to_risk_analysis.md).
 
