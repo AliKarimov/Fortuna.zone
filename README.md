@@ -4,6 +4,10 @@
 <img src="Fortuna logo 200x200.png" width="desired_width_in_pixels">
 
 
+# Fortuna Blockchain
+
+![Fortuna Logo](link_to_logo.png)
+
 Fortuna Blockchain is a decentralized gaming platform that brings transparency and excitement to the world of lotteries. Our mission is to provide unlimited liquidity for all users, allowing everyone to openly and honestly win and invest in our project to build an entire ecosystem.
 
 ## Table of Contents
@@ -24,187 +28,13 @@ Fortuna Blockchain is a decentralized gaming platform that brings transparency a
 14. [References](#references)
 15. [Glossary](#glossary)
 
+## Installation
 
+To get started with Fortuna Blockchain, follow these steps:
 
-Usage
-Here are some basic usage instructions for Fortuna Blockchain:
-
-Create an account and purchase tickets to participate in lotteries.
-Follow the game mechanics and rules to increase your chances of winning.
-Engage with the community, vote on game features, and participate in decision-making.
-For more information on how to use Fortuna Blockchain, please visit our User Guide.
-
-Game Mechanics
-Fortuna Blockchain offers a unique and exciting gaming experience. Here's how it works:
-
-Tickets are numbered from 1 to 90.
-Each ticket contains 18 unique digits in three rows of 6 digits each.
-One digit is highlighted in red, indicating a bonus.
-Random numbers are drawn, and players mark their tickets.
-The first player to complete one of the perpendicular lines wins.
-For a detailed explanation of the game mechanics, please see our Game Mechanics Guide.
-
-Bonuses and Features
-We offer various bonuses and features to enhance the gaming experience:
-
-Bonus 1: The first drawn number determines the bonus ticket.
-Bonus 2: Players completing six digits, including the red bonus, win additional prizes.
-Bonus 3: Jackpot for players who complete the first six drawn numbers.
-And more!
-Stay updated with our community for upcoming bonuses.
-
-Community Involvement
-We encourage community-driven development and decision-making. Our mission is to ensure responsible gaming and the well-being of our players.
-
-For details on how you can get involved and make your voice heard, visit our Community Engagement Guide.
-
-Tokenomics
-Our native token, FRT, plays a crucial role in the Fortuna Blockchain ecosystem:
-
-Total supply: 1,313,00,000 FRT
-Mining Prize: 45%
-Marketing: 5%
-Development: 11%
-Community: 11%
-ICO: 25%
-Reward: 3%
-For more information about FRT and its distribution, please see our Tokenomics Document.
-
-Future Plans
-We have exciting plans for the future, including the launch of additional games and financial instruments like staking, swapping, and trading. Stay tuned for updates on our roadmap.
-
-For a detailed overview of our future plans, please refer to our Roadmap.
-
-Financial Projections
-Here are our expected financial projections:
-
-Revenue: $X million
-Costs: $X million
-Profitability: X%
-For a comprehensive breakdown of our financial projections, please see our Financial Projections Report.
-
-ICO Details
-We plan to conduct an ICO with the following details:
-
-ICO Price: $X per FRT
-Date: [Insert Date]
-Hard Cap: $X million
-Soft Cap: $X million
-Stay informed about our ICO by visiting our ICO Details Page.
-
-Risk Analysis
-We understand that every project involves risks. Here is an analysis of potential risks:
-
-Market risks
-Security risks
-Regulatory risks
-To learn more about the risks associated with Fortuna Blockchain, please review our Risk Analysis.
-
-Fortuna Blockchain aims to serve a diverse target audience that includes but is not limited to:
-•	Online Gamblers: Individuals who participate in various online gaming activities and are looking for a more transparent and fair experience.
-•	Cryptocurrency Enthusiasts: Those who are already familiar with blockchain technology and are eager to see its applications in different verticals.
-•	Institutional Investors: Firms and high-net-worth individuals seeking new and innovative asset classes for diversification.
-•	General Public: Given the easy-to-understand nature of lottery games, Fortuna also appeals to the larger audience who might not yet be familiar with blockchain technology but are interested in gaming.
-
-
-Market Potential
-•	Global Online Gambling Market: Expected to reach $127.3 billion by 2027, growing at a CAGR of 11.5% from 2020 to 2027 (source: Allied Market Research).
-•	Cryptocurrency Users: As of 2021, there were an estimated 101 million crypto users worldwide, a number that's growing exponentially (source: Crypto.com).
-•	DeFi Market: The Total Value Locked (TVL) in DeFi platforms stood at over $80 billion as of mid-2022, showcasing the potential for decentralized financial products (source: DeFi Pulse).
-Competitive Analysis
-Direct Competitors
-•	FunFair: A blockchain-based platform that focuses on casino games.
-•	TrueFlip: Offers transparent lottery games.
-•	Augur: A decentralized prediction market.
-
-
-Indirect Competitors 
-•	Traditional online gambling sites: While not blockchain-based, they compete for the same target audience.
-•	Centralized Finance (CeFi) investment platforms: These platforms offer investment opportunities but lack the advantages of decentralization.
-
-Competitive Edge
-•	Transparency: The decentralized nature of Fortuna ensures full transparency in all games and transactions.
-•	Community-Driven: Fortuna places governance in the hands of the users, making it a truly community-driven project.
-•	Financial Tools: Beyond gaming, Fortuna offers a range of financial investment opportunities, creating a more comprehensive platform
-
-Rules of the Game on the Fortuna Blockchain
-1. Game Attributes
-•	Tickets (Cards): Each card is numbered from 1 to 90, inclusive.
-•	Number of Cards: 450 pieces in the following ranges: 001-090, 101-190, 201-290, 301-390, and 401-490.
-•	Numbers Barrels: These are 90 individual barrels, each with a unique number ranging from 1 to 90.
-
-
-
-
-2. Game Conditions
-Card Selection: Each player selects a card (ticket) from the available pool.
-Card Structure: Each card contains 18 unique digits, arranged in three rows. Each row contains 6 digits.
-Sample Card
-Sample Card
- 
-Note: One of the digits in each card will be colored red (bonus)
-
-
-4. Game Mechanics
-•	Game Start: Once the players have selected their cards, the game commences.
-•	Random Numbers: Numbers are randomly drawn from the 90 barrels. As the numbers are drawn, players mark off the corresponding numbers on their cards.
-•	Winning Criteria: The first player to mark off one complete row of numbers on their card wins the game.
-4.1 Game Attributes
-•	Tickets (Cards): Tickets are numbered from 1 to 90 (inclusive).
-•	Number of Cards: There are a total of 450 cards, divided into groups: 001-090; 101-190; 201-290; 301-390; 401-490.
-•	Number Barrels: The game includes 90 barrels, each numbered from 1 to 90.
-•	4.2 Game Conditions
-•	Player Selection: Each player selects a card (ticket).
-•	Ticket Structure: Each ticket contains 18 unique digits distributed across three rows, with 6 digits in each row. One of the digits is highlighted in red and is considered a bonus.
-
-•	4.3 Game Process
-•	Game Start: The game commences after players have acquired their tickets.
-•	Number Drawing: During the game, random numbers are drawn (randomized). These numbers are used to mark corresponding digits on players' tickets.
-•	Winning Condition: The first player to complete one of the vertical lines on their ticket is declared the winner of the round.
-
-5. Bonus Mechanisms
-•	Bonus 1: The first drawn number determines the bonus card(s). For example, if the first drawn number is 17, then card numbers 17, 117, 217, 317, and 417 become bonus cards for that game.
-•	Bonus 2: The red (bonus) number. If a player marks off a complete row and the last number marked is the red number, they win the standard prize pool plus a red-number bonus.
-•	Bonus 3: Jackpot conditions. If a player manages to mark off one row with the first six numbers drawn, they win a full Bitcoin or equivalent in Satoshi.
-
-•	Multiple Winners: If more than one card wins, the prize pool is divided equally among the winning cards.
-
-•	Card Limit: A player can purchase up to 10 cards per game.
-This innovative approach ensures not only excitement and fairness but also integrates the benefits of blockchain to enhance trust and community participation.
-Community Participation
-Overview
-A successful blockchain project thrives on active community involvement, and Fortuna is no different. As a decentralized platform focused on providing unlimited liquidity and fair management of resources, community participation is not just welcomed—it’s essential. Below are the mechanisms through which our community can actively participate in the project's development and decision-making processes.
-
-Community-Driven Development
-Open-Source Model
-•	Fortuna's codebase is open source, allowing community members to contribute directly to the project's development. This open model fosters transparency and trust within the community.
-Development Bounties
-•	To incentivize community participation, Fortuna will run a series of development bounties. Anyone can contribute by resolving bugs, adding new features, or creating educational content, and get rewarded for their contributions.
-
-Weekly Dev Updates 
-•	A weekly development update will be shared with the community, detailing what has been achieved and what's on the roadmap. This provides an opportunity for community members to provide feedback and suggestions.
-Voting Mechanisms 
-Governance Token 
-•	A governance token, called FRT, gives holders the right to vote on various decisions such as feature updates, partnerships, and liquidity pools.
-
-
-Proposal System
-•	Community members can submit proposals, which could range from minor adjustments to major overhauls of the system. The community can vote to approve or reject these proposals.
-Staking and Voting Power
-•	Voting power is proportional to the number of tokens staked in the governance contract. This ensures that those who are most invested in the platform have a greater say in its development.
-Community Outreach 
-Community Events 
-•	Regular events such as AMAs (Ask Me Anything), webinars, and virtual meetups will be held to answer questions, gather feedback, and educate the community about Fortuna's features and updates.
-Social Media Channels
-•	Platforms like Telegram, Discord, and Reddit serve as community hubs for discussions, announcements, and real-time interaction with the development team.
-Educational Resources
-Fortuna will regularly publish guides, tutorials, and articles aimed at educating both new and experienced users on how the system works, and how best to utilize its features.
-
-
-Partner Outreach
-•	To grow the Fortuna ecosystem, community members are encouraged to introduce potential partners and collaborators. Special rewards may be given for successful introductions that result in meaningful partnerships.
-By involving the community at every step, Fortuna aims to build a decentralized platform that stands the test of time, continually adapts, and thrives.
-
+1. Clone the repository: `git clone https://github.com/fortuna/blockchain.git`
+2. Install the required dependencies: `npm install`
+3. Start the application: `npm start`
 
 For more detailed instructions, please refer to our [Installation Guide](link_to_installation_guide.md).
 
