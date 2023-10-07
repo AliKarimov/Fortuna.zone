@@ -1,7 +1,7 @@
 # Fortuna
 # Fortuna Blockchain
 
-<img src="[https://example.com/path/to/logo.png" alt="Fortuna Blockchain Logo](https://github.com/AliKarimov/Fortuna.zone/blob/main/Fortuna%20logo%20Sosial.png)" width="200" height="100">
+<img src="[https://github.com/AliKarimov/Fortuna.zone/blob/main/Fortuna%20logo%20Sosial.png)" width="200" height="100">
 
 
 Fortuna Blockchain is a decentralized gaming platform that brings transparency and excitement to the world of lotteries. Our mission is to provide unlimited liquidity for all users, allowing everyone to openly and honestly win and invest in our project to build an entire ecosystem.
