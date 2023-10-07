@@ -1,7 +1,8 @@
 # Fortuna
 # Fortuna Blockchain
 
-<img src=(https://github.com/AliKarimov/Fortuna.zone/blob/main/Fortuna%20logo%20Sosial.png)" width="200" height="100">
+<img src="https://example.com/path/to/logo.png" alt="Fortuna Blockchain Logo" style="width: 200px;">
+
 
 
 
