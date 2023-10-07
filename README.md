@@ -1,7 +1,7 @@
 # Fortuna
 # Fortuna Blockchain
-
 ![Fortuna Logo](Fortuna logo 200x200.png)
+
 
 Fortuna Blockchain is a decentralized gaming platform that brings transparency and excitement to the world of lotteries. Our mission is to provide unlimited liquidity for all users, allowing everyone to openly and honestly win and invest in our project to build an entire ecosystem.
 
