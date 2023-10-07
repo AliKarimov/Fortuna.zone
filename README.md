@@ -75,7 +75,7 @@ For details on how you can get involved and make your voice heard, visit our [Co
 
 Our native token, FRT, plays a crucial role in the Fortuna Blockchain ecosystem:
 
-- Total supply: 1,313,00,000 FRT
+- Total supply: 1,313,000,000 FRT
 - Mining Prize: 45%
 - Marketing: 5%
 - Development: 11%
