@@ -32,7 +32,7 @@ To get started with Fortuna Blockchain, follow these steps:
 
 For more detailed instructions, please refer to our [Installation Guide](link_to_installation_guide.md).
 
-## Usage
+## Introduction
 
 Here are some basic usage instructions for Fortuna Blockchain:
 
